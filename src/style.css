@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-color: #F8E8A6;
+    background-color: #f8a6e450;
 }
 
 .links {
@@ -9,5 +9,5 @@ body {
 
 .links a {
    padding: 15px 20px;
-   color: brown;
+   color: rgb(168, 44, 44);
 }
