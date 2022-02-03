@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: #F8E8A6;
+}
+
+.links {
+    margin: 20px;
+}
+
+.links a {
+   padding: 15px 20px;
+   color: olive;
+}
